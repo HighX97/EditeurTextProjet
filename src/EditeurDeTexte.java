@@ -13,7 +13,7 @@ public class EditeurDeTexte {
 	
 	public void start() {
 		System.out.println("Bienvenue dans l'éditeur de texte");
-		System.out.println(">");
+		System.out.print("> ");
 	}
 
 }
